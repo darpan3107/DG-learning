@@ -1,3 +1,3 @@
 # DG-learning
 
-Author - Darpan Ganatra
+Author - Darpan Ganatra - Learning Git
